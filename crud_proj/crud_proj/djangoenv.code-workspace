@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../django"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project",
+		"liveServer.settings.port": 5502
+	}
+}
